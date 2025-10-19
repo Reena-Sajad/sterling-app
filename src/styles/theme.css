@@ -1,0 +1,8 @@
+:root {
+  --primary-color: #e0ad2c; /* yellow-gold login button */
+  --primary-hover: #d49c10;
+  --accent-color: #0066cc;  /* link / highlight */
+  --text-color: #222;
+  --bg-light: #ffffff;
+  --bg-gray: #f9f9f9;
+}

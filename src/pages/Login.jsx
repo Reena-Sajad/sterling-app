@@ -13,7 +13,7 @@ export default function Login() {
   const handleSubmit = (e) => {
     e.preventDefault();
 
-    // Simple user login (you can replace with API call later)
+    // Simple user login (replace with API call later)
     if (email === "user@construction.com" && password === "password123") {
       login({ email, role: "user" });
       navigate(from, { replace: true });
